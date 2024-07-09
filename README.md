@@ -1,3 +1,3 @@
 # Desert-Myth
 
-Desert Myth game
+In development
